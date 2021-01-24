@@ -5,7 +5,7 @@ Comparing the box plots of Capomulin treatment regimen with Ramicane, Infubinol,
 
 The variability for Capomulin treatment regimen is lesser compared to that of Ramicane, Infubinol, and Ceftamin since the IQR's for them are bigger than Capomulin. This indicates that Capomulin regimen treatment is more reliable than the others.
 
-The box plot for Capomulin treatment regimen indicates that that the data is leftskewed. There are more That means the tumor volumes of the tumors greater than the median are closer together than the tumor volumes of tumors lesser than the median.
+The box plot for Capomulin treatment regimen indicates that that the data is leftskewed. That means the tumor volumes of the tumors greater than the median are closer together than the tumor volumes of tumors lesser than the median.
 
 There are no outliers for the Capomulin treatment regimen for this data set.
 
